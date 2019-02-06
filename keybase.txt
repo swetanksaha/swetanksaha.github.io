@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/swetanksaha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://swetank.info
+  * I am swetanksaha (https://keybase.io/swetanksaha) on keybase.
+  * I have a public key ASDYdSt3L9PdqlM7MUb_OLChlJFbBkdSrJdh7r7So-zgwQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d8752b772fd3ddaa533b3146ff38b0a194915b064752ac9761eebed2a3ece0c10a",
+      "host": "keybase.io",
+      "kid": "0120d8752b772fd3ddaa533b3146ff38b0a194915b064752ac9761eebed2a3ece0c10a",
+      "uid": "8a776f7180ef93a2e3c71e72512fb819",
+      "username": "swetanksaha"
+    },
+    "merkle_root": {
+      "ctime": 1549483335,
+      "hash": "337c5ab77e96945f2b015b18eecb82fc2a3ccbecb97fbdd958f556581db17b30504f0e0b4dd2120710a87e4bf03a66d8181b773a17c5171a22ec76d2601b4344",
+      "hash_meta": "66ef26efb03965415c26cd3ee32c957b10f810ffe0c44ac609403e9ca9d6ef49",
+      "seqno": 4715222
+    },
+    "service": {
+      "entropy": "8Ea1BJVJJ6XCTpju8hpU6H6r",
+      "hostname": "swetank.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1549483364,
+  "expire_in": 504576000,
+  "prev": "14b024bed6135197629380c86ec74ff431cfeff987c65ebe1826d598caea3d4d",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2HUrdy/T3apTOzFG/ziwoZSRWwZHUqyXYe6+0qPs4MEKp3BheWxvYWTESpcCCcQgFLAkvtYTUZdik4DIbsdP9DHP7/mHxl6+GCbVmMrqPU3EIO4Gg8cbeg+QADyeRe/VKzzoIkRU4p1WPCTtXD6mHkIeAgHCo3NpZ8RAk6F/8OUU2UxXwRJS0ma/qzwZn5ePDvz6O4i8AJ9am0D469xtBRsNEef9t87vw1GErD1gMwtN8MFXePNPj/i2AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBCbqmefbI7gTBiQPVsyQ7M/G+UChQ5BXPYMAo1ttk7Qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/swetanksaha
+
+==================================================================
